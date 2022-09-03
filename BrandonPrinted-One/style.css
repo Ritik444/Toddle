@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Brandon Printed';
+    src: local('Brandon Printed One'), local('Brandon-Printed-One'),
+        url('BrandonPrinted-One.woff2') format('woff2'),
+        url('BrandonPrinted-One.woff') format('woff'),
+        url('BrandonPrinted-One.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }

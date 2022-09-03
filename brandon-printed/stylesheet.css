@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Brandon Printed';
+    src: url('BrandonPrinted-TwoShadow.eot');
+    src: local('Brandon Printed Two Shadow'), local('BrandonPrinted-TwoShadow'),
+        url('BrandonPrinted-TwoShadow.eot?#iefix') format('embedded-opentype'),
+        url('BrandonPrinted-TwoShadow.woff2') format('woff2'),
+        url('BrandonPrinted-TwoShadow.woff') format('woff'),
+        url('BrandonPrinted-TwoShadow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brandon Printed';
+    src: url('BrandonPrinted-Extras.eot');
+    src: local('Brandon Printed Extras'), local('BrandonPrinted-Extras'),
+        url('BrandonPrinted-Extras.eot?#iefix') format('embedded-opentype'),
+        url('BrandonPrinted-Extras.woff2') format('woff2'),
+        url('BrandonPrinted-Extras.woff') format('woff'),
+        url('BrandonPrinted-Extras.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brandon Printed';
+    src: url('BrandonPrinted-Double.eot');
+    src: local('Brandon Printed Double'), local('BrandonPrinted-Double'),
+        url('BrandonPrinted-Double.eot?#iefix') format('embedded-opentype'),
+        url('BrandonPrinted-Double.woff2') format('woff2'),
+        url('BrandonPrinted-Double.woff') format('woff'),
+        url('BrandonPrinted-Double.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brandon Printed';
+    src: url('BrandonPrinted-One.eot');
+    src: local('Brandon Printed One'), local('BrandonPrinted-One'),
+        url('BrandonPrinted-One.eot?#iefix') format('embedded-opentype'),
+        url('BrandonPrinted-One.woff2') format('woff2'),
+        url('BrandonPrinted-One.woff') format('woff'),
+        url('BrandonPrinted-One.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brandon Printed';
+    src: url('BrandonPrinted-OneShadow.eot');
+    src: local('Brandon Printed One Shadow'), local('BrandonPrinted-OneShadow'),
+        url('BrandonPrinted-OneShadow.eot?#iefix') format('embedded-opentype'),
+        url('BrandonPrinted-OneShadow.woff2') format('woff2'),
+        url('BrandonPrinted-OneShadow.woff') format('woff'),
+        url('BrandonPrinted-OneShadow.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brandon Printed';
+    src: url('BrandonPrinted-Two.eot');
+    src: local('Brandon Printed Two'), local('BrandonPrinted-Two'),
+        url('BrandonPrinted-Two.eot?#iefix') format('embedded-opentype'),
+        url('BrandonPrinted-Two.woff2') format('woff2'),
+        url('BrandonPrinted-Two.woff') format('woff'),
+        url('BrandonPrinted-Two.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brandon Printed';
+    src: url('BrandonPrinted-Inline.eot');
+    src: local('Brandon Printed Inline'), local('BrandonPrinted-Inline'),
+        url('BrandonPrinted-Inline.eot?#iefix') format('embedded-opentype'),
+        url('BrandonPrinted-Inline.woff2') format('woff2'),
+        url('BrandonPrinted-Inline.woff') format('woff'),
+        url('BrandonPrinted-Inline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brandon Printed';
+    src: url('BrandonPrinted-Shadow.eot');
+    src: local('Brandon Printed Shadow'), local('BrandonPrinted-Shadow'),
+        url('BrandonPrinted-Shadow.eot?#iefix') format('embedded-opentype'),
+        url('BrandonPrinted-Shadow.woff2') format('woff2'),
+        url('BrandonPrinted-Shadow.woff') format('woff'),
+        url('BrandonPrinted-Shadow.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+

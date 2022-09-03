@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="12.03" viewBox="0 0 21 12.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Review_Left_Arrow" data-name="Review Left Arrow" class="cls-1" d="M1017.97,3175.72a0.486,0.486,0,0,0,0-.8l-3.94-3.89h17.63a0.5,0.5,0,0,0,.56-0.56V3170a0.494,0.494,0,0,0-.56-0.56h-17.63l3.94-3.9a0.476,0.476,0,0,0,0-.79l-0.33-.33a0.476,0.476,0,0,0-.79,0l-5.44,5.44a0.44,0.44,0,0,0,0,.75l5.44,5.43a0.467,0.467,0,0,0,.79,0Z" transform="translate(-1011.22 -3164.22)"/>
+</svg>

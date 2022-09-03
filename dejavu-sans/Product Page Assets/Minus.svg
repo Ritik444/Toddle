@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="2" viewBox="0 0 12 2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #467a7d;
+      }
+    </style>
+  </defs>
+  <rect id="Minus" class="cls-1" width="12" height="2"/>
+</svg>
